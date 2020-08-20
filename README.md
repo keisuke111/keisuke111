@@ -6,5 +6,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=keisuke111&count_private=true&show_icons=true&theme=calm" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisuke111&layout=compact&theme=calm" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisuke111&theme=calm" />
 </a>
